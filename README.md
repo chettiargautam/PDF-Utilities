@@ -219,9 +219,7 @@ This command will read the `requirements.txt` file and install the specified pac
     - Extracts OCR data from a PDF and augments it with HTML tag and style information.
     - Supports extraction at word, line, or paragraph level (specified by `target`).
     - Generates a JSON file containing the augmented OCR data if `output_json_path` is provided.
-    - Requires `pdf2image` and `pytesseract` libraries for PDF to image conversion and OCR
-
-, respectively.
+    - Requires `pdf2image` and `pytesseract` libraries for PDF to image conversion and OCR, respectively.
 
 
 ## Sample Usage
