@@ -3,10 +3,6 @@
 This Python module provides various utility functions for PDF processing, including conversion, tagging, OCR, and more (This is only for educational purposes and the code here is for viewing only, please do not use for commercial distribution). From converting PDFs to images to extracting OCR data, these functions aim to streamline various tasks involved in PDF manipulation and analysis.
 
 
-Certainly! Here's a README file that provides instructions for setting up a virtual environment using both pip and conda:
-
----
-
 ## Setting Up Virtual Environments with pip and conda
 
 Virtual environments are a useful tool for managing dependencies and isolating projects in Python development. They allow you to install packages and dependencies separately for each project, preventing conflicts between different projects.
